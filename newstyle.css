@@ -6,3 +6,11 @@
   background-color: DarkOrchid;
   color: white;
 }
+
+.body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.section__title {
+	font-family: 'Anton', sans-serif;
+}
